@@ -1,17 +1,17 @@
 Implementation of some C Programs based on Operating Systems
 
 It includes;
-1) Familiarization of Shell programming. Week 2
+1) Familiarization of Shell programming.
 2) Familiarization of System calls and I/O calls of Linux operating
 system. Example fork(), exec(), getpid(), exit(), wait(), close(), stat(),
 opendir(), readdir().
 3) Implement cpu scheduling algorithms (FCFS, SJF, Round-Robin,
 Priority) and compute average waiting time and average turn-around
 time.
-4) Inter-process communication using shared memory. Week 5
+4) Inter-process communication using shared memory.
 5) Implementation of dining Producer-Consumer Problem using
 semaphores.
-6) Implementation of banker’s algorithm. Week 7
+6) Implementation of banker’s algorithm.
 7) Implement memory management schemes
    (first fit, best fit and worst fit).
 9) Implementation of different types of Page Replacement
